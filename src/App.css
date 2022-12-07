@@ -1,0 +1,75 @@
+body{
+   margin:0px;
+   margin-top:60px;
+   padding: 0px;
+   background-color: #FFF7E9;
+}
+
+nav{
+   display: flex;
+   position: fixed;
+   top:0;
+   width: 100%;
+   overflow: auto;
+   height: auto;
+   background-color: #4D4DFF;
+}
+
+.left-links{
+   flex:1 1 200px;
+   font-size: 17px;
+   font-weight: bolder;
+   padding: 14px;
+   text-decoration: none;
+}
+
+.links {
+   display: inline-block;
+   text-align: center;
+   padding: 14px;
+   text-decoration: none;
+   font-size: 17px;
+   font-weight: bolder;
+}
+
+.profilepic {
+  border-radius: 125px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  width: 250px;
+  height: 250px;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+}
+
+.logos {
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+/* .main { */
+/*   margin: 0 auto; */
+/*   position: absolute;  */
+/*   top: 50%;  */
+/*   left: 50%;  */
+/*   -ms-transform: translate(-50%, -50%); */
+/*   transform: translate(-50%, -50%); */
+/*   justify-content: center; */
+/*   align-items: center; */
+/*   border: 2px grey solid; */
+/*   background-color: lightblue; */
+/*   border-radius: 30px; */
+/*   padding-right: 10px; */
+/* } */
+
+h1, h2, h3, h4, p {
+  text-align: center;
+}
+
