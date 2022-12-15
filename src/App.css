@@ -55,10 +55,13 @@ nav{
 }
 
 .contact {
-  height: 100%;
-  margin: 0 auto;
-  margin-top: 130px;
   border: 2px grey solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 115px;
   background-color: lightblue;
   width: 450px;
   border-radius: 30px;

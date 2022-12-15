@@ -1,6 +1,6 @@
 import LandingPage from "./pages/LandingPage"
 import './App.css';
-import Footer from "./components/Footer";
+// import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -8,6 +8,6 @@ function App() {
       <LandingPage />
     </div>
   );
-}
+};
 
 export default App;
