@@ -54,20 +54,16 @@ nav{
   justify-content: center;
 }
 
-/* .main { */
-/*   margin: 0 auto; */
-/*   position: absolute;  */
-/*   top: 50%;  */
-/*   left: 50%;  */
-/*   -ms-transform: translate(-50%, -50%); */
-/*   transform: translate(-50%, -50%); */
-/*   justify-content: center; */
-/*   align-items: center; */
-/*   border: 2px grey solid; */
-/*   background-color: lightblue; */
-/*   border-radius: 30px; */
-/*   padding-right: 10px; */
-/* } */
+.contact {
+  height: 100%;
+  margin: 0 auto;
+  margin-top: 130px;
+  border: 2px grey solid;
+  background-color: lightblue;
+  width: 450px;
+  border-radius: 30px;
+  padding-right: 20px;
+}
 
 h1, h2, h3, h4, p {
   text-align: center;

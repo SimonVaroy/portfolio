@@ -6,12 +6,12 @@ import '../App.css';
 
 const DefaultPage = () => {
 return(
-  <>
+  <div className="landing">
   <ProfilePicture />
   <h2>{Name}</h2>
   <h4>Fullstack utvikler og nerd</h4>
   <LogoBar />
-  </>
+  </div>
 
 );
 };

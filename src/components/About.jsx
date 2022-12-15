@@ -3,9 +3,9 @@ import ProfilePicture from "./ProfilePicture";
 
 const About = () => {
   return (
-   <div className="main">
-    <Pitch />
+   <div className="about">
     <ProfilePicture />
+    <Pitch />
     </div> 
   );
 }
