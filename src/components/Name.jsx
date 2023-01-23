@@ -1,3 +1,3 @@
-const Name = "Simon"
+const Name = "Simon Varøy"
 
 export default Name;

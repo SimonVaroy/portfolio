@@ -8,7 +8,6 @@ import Projects from "../components/Projects";
 import Contact from "../components/Contact";
 import DefaultPage from "../components/DefaultPage"
 
-
 const LandingPage = () => {
   return (
     <>

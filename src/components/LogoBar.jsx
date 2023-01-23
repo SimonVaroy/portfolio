@@ -8,7 +8,7 @@ const LogoBar = () => {
     <div className="logos">
 
       <div>
-        <img className="logo" src={githublogo} alt="github logo"/>
+        <a href="https://github.com/SimonVaroy"><img className="logo" src={githublogo} alt="github logo"/></a>
       </div>
 
       <div>

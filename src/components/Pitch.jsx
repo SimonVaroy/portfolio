@@ -14,7 +14,7 @@ bedre utstyr og programvare.</p>
 Skyrim. Jeg liker også å oversette og formattere gamle bøker i LaTeX.</p>
 
 <h2>Hva jeg kan</h2>
-<p>Jeg kan HTML, CSS, LaTeX, JavaScript, Bash, ReactJS, ExpressJS, MongoDB,
+<p>Jeg kan HTML, CSS, JavaScript, Shellscript, ReactJS, ExpressJS, MongoDB,
 Git, SQL, NGINX og Linux/BSD. Jeg liker egentlig best å jobbe med servere og
 databaser, men jeg mestrer frontend ganske bra.</p>
 
