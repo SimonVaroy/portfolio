@@ -12,10 +12,10 @@ const LandingPage = () => {
   return (
     <>
       <nav>
-        <NavLink className={"left-links"} to="/">{Name}</NavLink>
-        <NavLink className={"links"} to="/ommeg">Om meg</NavLink>
-        <NavLink className={"links"} to="/prosjekter">Prosjekter</NavLink>
-        <NavLink className={"links"} to="/kontakt">Kontakt</NavLink>
+        <NavLink className={"left-links"} to="/" activeClassName="selected">{Name}</NavLink>
+        <NavLink className={"links"} to="/ommeg" activeClassName="selected">Om meg</NavLink>
+        <NavLink className={"links"} to="/prosjekter" activeClassName="selected">Prosjekter</NavLink>
+        <NavLink className={"links"} to="/kontakt" activeClassName="selected">Kontakt</NavLink>
       </nav>
 
       <Routes>
