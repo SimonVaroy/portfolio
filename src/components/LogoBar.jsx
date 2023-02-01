@@ -12,7 +12,7 @@ const LogoBar = () => {
       </div>
 
       <div>
-        <img className="logo" src={linkedinlogo} alt="linkedin logo"/>
+	<a href="https://www.linkedin.com/in/simon-nikolai-var%C3%B8y-777750263/"><img className="logo" src={linkedinlogo} alt="linkedin logo"/></a>
       </div>
 
       <div>

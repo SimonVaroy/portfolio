@@ -1,7 +1,13 @@
+@font-face {
+  font-family: JetBrainsMono;
+  src: local(JetBrainsMono), url('./fonts/fonts/ttf/JetBrainsMono-Regular.ttf') format('truetype');
+}
+
 body {
    margin:0px;
    margin-top:60px;
    padding: 0px;
+   font-family: JetBrainsMono;
    background-color: #FFF7E9;
 }
 
@@ -21,7 +27,7 @@ nav {
    font-weight: bolder;
    padding: 14px;
    text-decoration: none;
-   color: #00337C;
+   color: #fffdd0;
 }
 
 .links {
@@ -31,7 +37,11 @@ nav {
    text-decoration: none;
    font-size: 17px;
    font-weight: bolder;
-   color: #00337C;
+   color: #fffdd0;
+}
+
+.link:hover {
+  color: #13005A;
 }
 
 .profilepic {
@@ -64,11 +74,12 @@ nav {
   justify-content: center;
   align-items: center;
   margin: 0 auto;
-  margin-top: 115px;
+  margin-top: 100px;
   background-color: lightblue;
   width: 450px;
   border-radius: 30px;
   padding-right: 20px;
+  margin-bottom: 40px;
 }
 
 .about {
@@ -89,11 +100,15 @@ nav {
 }
 
 .landing {
-  margin-top: 100px;
+  margin-top: 130px;
 }
 
 .active {
   color: #13005A;
+}
+
+#projectsheader {
+  margin: 0 0 30px 0;
 }
 
 .project {
@@ -103,8 +118,7 @@ nav {
   justify-content: center;
   align-items: center;
   margin: 0 auto;
-  margin-top: 90px;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
   background-color: lightblue;
   width: 350px;
   border-radius: 30px;
@@ -112,6 +126,15 @@ nav {
 
 .projecttext {
   width: 300px;
+}
+
+.githublogo {
+  display: flex;
+  flex-direction: column;
+  width: 70px;
+  height: 70px;
+  padding-bottom: 10px;
+  margin: 0 auto;
 }
 
 h1, h2, h3, h4, p {

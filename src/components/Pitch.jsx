@@ -10,18 +10,18 @@ hvordan datamaskiner fungerer.</p>
 <p>I dag holder jeg fremdeles på med datamaskiner, men jeg bruker kanskje litt
 bedre utstyr og programvare.</p>
 
-<p>På fritiden liker jeg å spille spill som CS:GO, Witcher 3 og
+<p>På fritiden liker jeg å spille spill som Sjakk, CS:GO, Witcher 3 og
 Skyrim. Jeg liker også å oversette og formattere gamle bøker i LaTeX.</p>
 
 <h2>Hva jeg kan</h2>
-<p>Jeg kan HTML, CSS, JavaScript, Shellscript, ReactJS, ExpressJS, MongoDB,
-Git, SQL, NGINX og Linux/BSD. Jeg liker egentlig best å jobbe med servere og
+<p>Jeg kan HTML, CSS, JavaScript, Shellscript, React, ExpressJS, MongoDB,
+SQL, NGINX og Linux/BSD. Jeg liker egentlig best å jobbe med servere og
 databaser, men jeg mestrer frontend ganske bra.</p>
 
 <h2>Hvordan jeg jobber</h2>
 <p>Operativsystemet jeg bruker er Arch/Artix Linux. Til alt som har med
 tekstbehandling å gjøre bruker jeg Neovim eller Vim, men det hender jeg bruker
-VS Code om jeg trenger en bestemt plugin til noe.</p>
+VSCode om jeg trenger en bestemt plugin til noe.</p>
 </>
   );
 };
